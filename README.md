@@ -4,13 +4,11 @@
 
 <br clear="both">
 
-<p align="left">🧠​  Computer science student<br>  🖱️: ̗̀➛ The cursor blinks, waiting.<br>...</p>
+<p align="left">🧠​  Computer science student<br>  🖱️: ̗̀➛ The cursor blinks, waiting.<br>📈 Plotting my rise, one step at a time.<br>...</p>
 
 ###
 
-<div align="right">
-  <img height="136" src="https://media1.tenor.com/m/Hft0Ev3JylEAAAAC/classroom-of-the-elite-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.gif"  />
-</div>
+<img align="right" height="135" src="https://media1.tenor.com/m/Hft0Ev3JylEAAAAC/classroom-of-the-elite-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.gif"  />
 
 ###
 
