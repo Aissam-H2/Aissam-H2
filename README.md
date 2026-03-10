@@ -2,7 +2,15 @@
 
 ###
 
-<p align="left">nickname : Pocky</p>
+<br clear="both">
+
+<p align="left">🧠​  Computer science student<br>  🖱️: ̗̀➛ The cursor blinks, waiting.<br>...</p>
+
+###
+
+<div align="right">
+  <img height="136" src="https://media1.tenor.com/m/Hft0Ev3JylEAAAAC/classroom-of-the-elite-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.gif"  />
+</div>
 
 ###
 
@@ -45,5 +53,33 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
+
+###
+
+<h2 align="left">schedule workflow</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aissam-h2/Aissam-h2/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aissam-h2/Aissam-h2/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aissam-h2/Aissam-h2/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h2 align="left">Stats</h2>
+
+###
+
+<div align="left">
+  <a href="https://discord.com/users/698915107429810257" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<img align="right" height="133" src="https://media1.tenor.com/m/OHxpbhbsceEAAAAC/anime-hunter-x-hunter.gif"  />
 
 ###
