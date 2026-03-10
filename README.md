@@ -8,6 +8,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="135" src="https://media1.tenor.com/m/Hft0Ev3JylEAAAAC/classroom-of-the-elite-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.gif"  />
 
 ###
