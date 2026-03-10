@@ -3,8 +3,12 @@
 ###
 
 <br clear="both">
-
-<p align="left">🧠​  Computer science student<br>  🖱️: ̗̀➛ The cursor blinks, waiting.<br>...</p>
+<table>
+  <tr>
+    <td>🧠​ Computer science student<br>  🖱️: ̗̀➛ The cursor blinks, waiting.</td>
+    <td><img src="path/to/your.gif" alt="GIF description" width="300"/></td>
+  </tr>
+</table>
 
 ###
 
