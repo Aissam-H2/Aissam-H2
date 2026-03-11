@@ -8,11 +8,11 @@
 
 ###
 
-<img align="right" height="105" src="https://media1.tenor.com/m/Hft0Ev3JylEAAAAC/classroom-of-the-elite-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.gif"  />
+<h2 align="left">About me</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<img align="right" height="105" src="https://media1.tenor.com/m/Hft0Ev3JylEAAAAC/classroom-of-the-elite-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.gif"  />
 
 ###
 
