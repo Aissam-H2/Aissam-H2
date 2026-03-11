@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="139" src="https://media1.tenor.com/m/Hft0Ev3JylEAAAAC/classroom-of-the-elite-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.gif"  />
+<img align="right" height="97" src="https://media1.tenor.com/m/Hft0Ev3JylEAAAAC/classroom-of-the-elite-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.gif"  />
 
 ###
 
