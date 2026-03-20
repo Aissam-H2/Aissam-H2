@@ -18,19 +18,6 @@
 
 ---
 
-<!-- ANIMATED CS GIF ROW -->
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="matrix" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/ZVik7pIoGPHp62NzaQ/giphy.gif" width="200" alt="terminal" />
-
-</div>
-
----
-
 <!-- MULTICOLOR SECTION DIVIDER STYLE -->
 <!-- ── SECTION 1 · ABOUT ────────────────────────────────────────── -->
 
