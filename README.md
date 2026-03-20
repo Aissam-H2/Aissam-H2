@@ -140,11 +140,9 @@ Docker      ██████████████░░░░░░   70%  
 <!-- CS GIF ROW 2 -->
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180" alt="algorithm" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtudTBmeDJvMG91dWJmODVxZ2M4NHk4YTE2ZnFyMzhveXV3NnR1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RKp3DW2ZwDlVS/giphy.gif" width="180" alt="github" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180" alt="github" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="180" alt="python" />
+
 
 </div>
 
