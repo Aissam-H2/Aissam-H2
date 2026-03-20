@@ -5,14 +5,14 @@
 <!-- ANIMATED HEADER BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,18:181825,35:313244,52:1e1e2e,68:2a1f3d,82:1e1e2e,100:181825&height=220&section=header&text=AISSAM&fontSize=90&fontAlignY=40&desc=%E2%9A%A1%20Software%20Engineer%20%7C%20Open%20Source%20%7C%20Linux%20Nerd%20%E2%9A%A1&descAlignY=60&descAlign=50&fontColor=cba6f7&animation=twinkling&stroke=fab387&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,20:262626,40:1c1c1c,60:303030,80:1c1c1c,100:262626&height=220&section=header&text=AISSAM&fontSize=90&fontAlignY=40&desc=--+INSERT+MODE+--+Software+Engineer+%7C+Open+Source+%7C+Linux+Nerd&descAlignY=60&descAlign=50&fontColor=cccc00&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" />
 
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=CBA6F7&center=true&vCenter=true&multiline=false&width=700&lines=%E2%9A%A1+LAZYVIM+LOADED+%E2%9A%A1;%3Aset+colorscheme%3Dcatppuccin-mocha;%E2%9A%A1+plugins+installed+in+0.02ms;%3ALazy+%7C+%3AMason+%7C+%3AConform;print(%22Hello%2C+I+build+things+that+matter%22))
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&pause=800&color=CCCC00&center=true&vCenter=true&multiline=false&width=700&lines=--+INSERT+MODE+--;%3Aset+number+%7C+%3Aset+relativenumber;%3Aset+tabstop%3D4+%7C+%3Aset+shiftwidth%3D4;%3Asyntax+on+%7C+%3Afiletype+plugin+indent+on;%3Aw+%7C+echo+%22Hello%2C+World!%22)
 
 </div>
 
@@ -277,7 +277,7 @@ call Contact()
 <!-- ANIMATED FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181825,22:1e1e2e,45:313244,68:1e1e2e,100:181825&height=120&section=footer&text=%E2%9A%A1+:q!+just+kidding%2C+stay+a+while+%F0%9F%98%84+%E2%9A%A1&fontSize=16&fontColor=fab387&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:262626,25:1c1c1c,50:303030,75:1c1c1c,100:262626&height=120&section=footer&text=--+NORMAL+MODE+--+:q!+just+kidding%2C+stay+a+while&fontSize=16&fontColor=cccc00&animation=twinkling" width="100%" />
 
 </div>
 
