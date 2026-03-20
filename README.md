@@ -5,14 +5,14 @@
 <!-- ANIMATED HEADER BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,25:ff6600,50:ffdd00,75:00ff88,100:00bfff&height=200&section=header&text=AISSAM&fontSize=80&fontAlignY=38&desc=Software%20Engineer%20%7C%20Open%20Source%20%7C%20Linux%20Nerd&descAlignY=58&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,20:006600,40:00aa44,55:00ff88,70:00bfff,85:0066ff,100:003399&height=220&section=header&text=AISSAM&fontSize=90&fontAlignY=40&desc=Software%20Engineer%20%7C%20Open%20Source%20%7C%20Linux%20Nerd&descAlignY=60&descAlign=50&fontColor=00ffcc&animation=twinkling&stroke=00ff88&strokeWidth=2" width="100%" />
 
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&width=700&lines=%3A%3A+VIM+MODE+ACTIVATED+%3A%3A;%3Aset+passion%3DCoding+%7C+%3Aset+os%3DLinux;%3Asyntax+enable+%7C+%3Acolorscheme+aissam;dd+yy+p+%E2%80%94+the+holy+trinity+%F0%9F%97%A1%EF%B8%8F;print(%22Hello%2C+I+build+things+that+matter%22))
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=700&lines=%3A%3A+VIM+MODE+ACTIVATED+%3A%3A;%3Aset+passion%3DCoding+%7C+%3Aset+os%3DLinux;%3Asyntax+enable+%7C+%3Acolorscheme+aissam;dd+yy+p+%E2%80%94+the+holy+trinity+%F0%9F%97%A1%EF%B8%8F;print(%22Hello%2C+I+build+things+that+matter%22))
 
 </div>
 
@@ -277,7 +277,7 @@ call Contact()
 <!-- ANIMATED FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,25:aa44ff,50:ff0080,75:ff6600,100:ffdd00&height=120&section=footer&text=:q!+just+kidding%2C+stay+a+while+%F0%9F%98%84&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003399,25:0066ff,50:00bfff,75:00ff88,100:006600&height=120&section=footer&text=:q!+just+kidding%2C+stay+a+while+%F0%9F%98%84&fontSize=18&fontColor=00ffcc&animation=twinkling" width="100%" />
 
 </div>
 
