@@ -2,66 +2,17 @@
      Aissam — GitHub Profile README  |  vim + multicolor + animated
      ============================================================ -->
 
-<!-- ANIMATED HEADER BANNER — VIM LOGO STYLE SVG -->
+<!-- ANIMATED HEADER BANNER -->
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 200" width="100%">
-  <!-- Background -->
-  <rect width="960" height="200" fill="#1c1c1c"/>
-
-  <!-- ===== A ===== -->
-  <polygon points="30,170 68,22 84,22 68,95 52,95" fill="#cccc00"/>
-  <polygon points="106,170 68,22 84,22 122,170" fill="#cccc00"/>
-  <rect x="47" y="92" width="52" height="16" fill="#cccc00"/>
-
-  <!-- ===== I ===== -->
-  <rect x="148" y="22" width="52" height="18" fill="#cccc00"/>
-  <rect x="165" y="40" width="18" height="92" fill="#cccc00"/>
-  <rect x="148" y="132" width="52" height="18" fill="#cccc00"/>
-
-  <!-- ===== S ===== (1st) -->
-  <rect x="228" y="22" width="66" height="16" fill="#cccc00"/>
-  <rect x="228" y="22" width="16" height="46" fill="#cccc00"/>
-  <rect x="228" y="68" width="66" height="16" fill="#cccc00"/>
-  <rect x="278" y="84" width="16" height="46" fill="#cccc00"/>
-  <rect x="228" y="132" width="66" height="16" fill="#cccc00"/>
-
-  <!-- ===== S ===== (2nd) -->
-  <rect x="328" y="22" width="66" height="16" fill="#cccc00"/>
-  <rect x="328" y="22" width="16" height="46" fill="#cccc00"/>
-  <rect x="328" y="68" width="66" height="16" fill="#cccc00"/>
-  <rect x="378" y="84" width="16" height="46" fill="#cccc00"/>
-  <rect x="328" y="132" width="66" height="16" fill="#cccc00"/>
-
-  <!-- ===== A ===== (2nd) -->
-  <polygon points="430,170 468,22 484,22 468,95 452,95" fill="#cccc00"/>
-  <polygon points="506,170 468,22 484,22 522,170" fill="#cccc00"/>
-  <rect x="447" y="92" width="52" height="16" fill="#cccc00"/>
-
-  <!-- ===== M ===== -->
-  <rect x="548" y="22" width="18" height="148" fill="#cccc00"/>
-  <rect x="654" y="22" width="18" height="148" fill="#cccc00"/>
-  <!-- left inner diagonal -->
-  <polygon points="566,22 566,70 610,104 610,56" fill="#cccc00"/>
-  <!-- right inner diagonal -->
-  <polygon points="654,22 654,70 610,104 610,56" fill="#cccc00"/>
-
-  <!-- ===== VIM icon (diamond) top-right ===== -->
-  <polygon points="820,30 840,55 820,80 800,55" fill="#cccc00" opacity="0.9"/>
-  <polygon points="820,38 835,55 820,72 805,55" fill="#1c1c1c"/>
-  <polygon points="820,44 830,55 820,66 810,55" fill="#cccc00" opacity="0.6"/>
-
-  <!-- ===== Statusline bar ===== -->
-  <rect x="0" y="178" width="960" height="22" fill="#cccc00"/>
-  <text x="12" y="194" font-family="Courier New, monospace" font-size="11" fill="#1c1c1c" font-weight="bold">-- INSERT MODE --        ~/.config/aissam/init.vim                     1,1    All</text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,20:1e2030,40:24283b,60:1a1b2e,75:1e2640,100:1a1b2e&height=220&section=header&text=AISSAM&fontSize=90&fontAlignY=40&desc=%E2%9D%AF%20Software%20Engineer%20%7C%20Open%20Source%20%7C%20Linux%20Nerd%20%E2%9D%AF&descAlignY=60&descAlign=50&fontColor=89b4fa&animation=twinkling&stroke=a6e3a1&strokeWidth=2" width="100%" />
 
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&pause=800&color=CCCC00&center=true&vCenter=true&multiline=false&width=700&lines=--+INSERT+MODE+--;%3Aset+number+%7C+%3Aset+relativenumber;%3Aset+tabstop%3D4+%7C+%3Aset+shiftwidth%3D4;%3Asyntax+on+%7C+%3Afiletype+plugin+indent+on;%3Aw+%7C+echo+%22Hello%2C+World!%22)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=89B4FA&center=true&vCenter=true&multiline=false&width=700&lines=%E2%9D%AF+NEOVIM+MODE+ACTIVATED+%E2%9D%AF;%3Aset+passion%3DCoding+%7C+%3Aset+os%3DLinux;%3Asyntax+enable+%7C+%3Acolorscheme+tokyonight;dd+yy+p+%E2%80%94+the+holy+trinity+%F0%9F%97%A1%EF%B8%8F;print(%22Hello%2C+I+build+things+that+matter%22))
 
 </div>
 
@@ -326,7 +277,7 @@ call Contact()
 <!-- ANIMATED FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:262626,25:1c1c1c,50:303030,75:1c1c1c,100:262626&height=120&section=footer&text=--+NORMAL+MODE+--+:q!+just+kidding%2C+stay+a+while&fontSize=16&fontColor=cccc00&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,25:24283b,50:1e2640,75:24283b,100:1a1b2e&height=120&section=footer&text=%E2%9D%AF+:q!+just+kidding%2C+stay+a+while+%F0%9F%98%84+%E2%9D%AF&fontSize=16&fontColor=a6e3a1&animation=twinkling" width="100%" />
 
 </div>
 
