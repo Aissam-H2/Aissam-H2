@@ -5,7 +5,7 @@
 <!-- ANIMATED HEADER BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,15:006600,35:00aa44,52:00ff88,65:00bfff,80:0055ff,92:003399,100:990000&height=220&section=header&text=AISSAM&fontSize=90&fontAlignY=40&desc=Software%20Engineer%20%7C%20Open%20Source%20%7C%20Linux%20Nerd&descAlignY=60&descAlign=50&fontColor=00ffcc&animation=twinkling&stroke=ff2200&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003399,18:0066ff,35:00bfff,50:00ff88,65:00cc44,78:ffee00,90:ffcc00,100:0044cc&height=220&section=header&text=AISSAM&fontSize=90&fontAlignY=40&desc=Software%20Engineer%20%7C%20Open%20Source%20%7C%20Linux%20Nerd&descAlignY=60&descAlign=50&fontColor=ffff88&animation=twinkling&stroke=00ff88&strokeWidth=2" width="100%" />
 
 </div>
 
