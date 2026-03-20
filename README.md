@@ -5,14 +5,14 @@
 <!-- ANIMATED HEADER BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,20:16213e,38:0f3460,55:1a4a2e,70:2d6a4f,85:52b788,100:1a1b26&height=220&section=header&text=AISSAM&fontSize=90&fontAlignY=40&desc=%E2%9D%AF%20Software%20Engineer%20%7C%20Open%20Source%20%7C%20Linux%20Nerd%20%E2%9D%AF&descAlignY=60&descAlign=50&fontColor=9ece6a&animation=twinkling&stroke=7aa2f7&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,20:1e2030,40:24283b,60:1a1b2e,75:1e2640,100:1a1b2e&height=220&section=header&text=AISSAM&fontSize=90&fontAlignY=40&desc=%E2%9D%AF%20Software%20Engineer%20%7C%20Open%20Source%20%7C%20Linux%20Nerd%20%E2%9D%AF&descAlignY=60&descAlign=50&fontColor=89b4fa&animation=twinkling&stroke=a6e3a1&strokeWidth=2" width="100%" />
 
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=9ECE6A&center=true&vCenter=true&multiline=false&width=700&lines=%E2%9D%AF+NEOVIM+MODE+ACTIVATED+%E2%9D%AF;%3Aset+passion%3DCoding+%7C+%3Aset+os%3DLinux;%3Asyntax+enable+%7C+%3Acolorscheme+tokyonight;dd+yy+p+%E2%80%94+the+holy+trinity+%F0%9F%97%A1%EF%B8%8F;print(%22Hello%2C+I+build+things+that+matter%22))
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=89B4FA&center=true&vCenter=true&multiline=false&width=700&lines=%E2%9D%AF+NEOVIM+MODE+ACTIVATED+%E2%9D%AF;%3Aset+passion%3DCoding+%7C+%3Aset+os%3DLinux;%3Asyntax+enable+%7C+%3Acolorscheme+tokyonight;dd+yy+p+%E2%80%94+the+holy+trinity+%F0%9F%97%A1%EF%B8%8F;print(%22Hello%2C+I+build+things+that+matter%22))
 
 </div>
 
@@ -277,7 +277,7 @@ call Contact()
 <!-- ANIMATED FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,20:2d6a4f,45:52b788,65:7aa2f7,85:16213e,100:1a1b26&height=120&section=footer&text=%E2%9D%AF+:q!+just+kidding%2C+stay+a+while+%F0%9F%98%84+%E2%9D%AF&fontSize=16&fontColor=9ece6a&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,25:24283b,50:1e2640,75:24283b,100:1a1b2e&height=120&section=footer&text=%E2%9D%AF+:q!+just+kidding%2C+stay+a+while+%F0%9F%98%84+%E2%9D%AF&fontSize=16&fontColor=a6e3a1&animation=twinkling" width="100%" />
 
 </div>
 
