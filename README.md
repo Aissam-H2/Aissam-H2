@@ -1,356 +1,382 @@
+<!-- ============================================================ -->
+<!--         LAZYVIM PORTFOLIO — README.md                        -->
+<!--   Replace all [PLACEHOLDERS] with your own info              -->
+<!-- ============================================================ -->
+
 <div align="center">
 
+<!-- WAVE HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:cba6f7&height=120&section=header&animation=fadeIn"/>
+
 ```
- ██████╗ ███████╗██╗   ██╗    ███╗   ███╗ ██████╗ ██████╗ ███████╗
- ██╔══██╗██╔════╝██║   ██║    ████╗ ████║██╔═══██╗██╔══██╗██╔════╝
- ██║  ██║█████╗  ██║   ██║    ██╔████╔██║██║   ██║██║  ██║█████╗  
- ██║  ██║██╔══╝  ╚██╗ ██╔╝    ██║╚██╔╝██║██║   ██║██║  ██║██╔══╝  
- ██████╔╝███████╗ ╚████╔╝     ██║ ╚═╝ ██║╚██████╔╝██████╔╝███████╗
- ╚═════╝ ╚══════╝  ╚═══╝      ╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝
+ ██╗      █████╗ ███████╗██╗   ██╗    ██████╗ ███████╗
+ ██║     ██╔══██╗╚════██║╚██╗ ██╔╝    ██╔══██╗██╔════╝
+ ██║     ███████║    ██╔╝ ╚████╔╝     ██║  ██║███████╗
+ ██║     ██╔══██║   ██╔╝   ╚██╔╝      ██║  ██║╚════██║
+ ███████╗██║  ██║   ██║     ██║       ██████╔╝███████║
+ ╚══════╝╚═╝  ╚═╝   ╚═╝     ╚═╝       ╚═════╝ ╚══════╝
 ```
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=7AA2F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%3A+%E2%80%94%E2%80%94+INSERT+MODE+%E2%80%94%E2%80%94+%3A;%3Aw+Hello%2C+World.+Saving+existence...;%3Aq!+Just+kidding%2C+never+quitting.)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Anime Computer GIF Banner -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd3NW54em1xbnZreXZzZWxmNDl4OGNodGNjMzFxZXZtZ3phM2swbyZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Anime Coding"/>
-
-<br/><br/>
-
-<!-- Status Bar (Neovim style) -->
-```
-[ NORMAL ] ──  ~/portfolio/me.lua  ──  branch: main  ──  ● 42 commits  ──  ♥ hiring: true
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&pause=600&color=CBA6F7&center=true&vCenter=true&multiline=true&width=750&height=90&lines=%E2%96%88+NORMAL+%E2%94%80%E2%94%80+%7E%2Fdev%2Fme.lua+%E2%94%80%E2%94%80+main+%E2%94%80%E2%94%80+%E2%99%A5+0+err+%E2%9A%A0+0+warn;%3Aw+%22crafting+existence%22+...+%5B+written+%5D;%3ALazyHealth+%E2%86%92+All+plugins+healthy+%E2%9C%93)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<!-- Neovim tree panel style -->
-<div align="left">
+<!-- LAZYVIM DASHBOARD PANEL -->
 
 ```lua
--- nvim-tree: ~/
--- ├── 📁 about/
--- │   └── me.lua
--- ├── 📁 stack/
--- │   └── weapons.toml  
--- ├── 📁 projects/
--- │   └── showcase.md
--- ├── 📁 anime/
--- │   └── vibes.txt
--- └── 📁 stats/
---     └── contributions.sh
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│    ██╗      █████╗ ███████╗██╗   ██╗    ██████╗ ███████╗    │
+│    ██║     ██╔══██╗╚════██║╚██╗ ██╔╝    ██╔══██╗██╔════╝    │
+│    ██║     ███████║    ██╔╝ ╚████╔╝     ██║  ██║███████╗    │
+│    ██║     ██╔══██║   ██╔╝   ╚██╔╝      ██║  ██║╚════██║    │
+│    ███████╗██║  ██║   ██║     ██║       ██████╔╝███████║    │
+│    ╚══════╝╚═╝  ╚═╝   ╚═╝     ╚═╝       ╚═════╝ ╚══════╝    │
+│                                                              │
+│   Find File        <leader> ff      ░░░░░░░░░░░░░░░░░░░░   │
+│   Find Text        <leader> fg      ░  Powered by          │
+│   Recent Files     <leader> fr      ░  LazyVim  v14.x  ░   │
+│   Projects         <leader> fp      ░░░░░░░░░░░░░░░░░░░░   │
+│                                                              │
+│   [YOUR NAME] · Full Stack Dev · Open Source Contributor     │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
+<!-- ANIME ANIMATIONS -->
+
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200"/>
+&nbsp;
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="200"/>
+&nbsp;
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="200"/>
 </div>
 
 ---
 
-## `~/about/me.lua` &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/──%20BUFFER%201%20──-7aa2f7?style=flat&logoColor=white"/>
+<!-- NVIM-TREE FILE STRUCTURE -->
+
+<details open>
+<summary><b>nvim-tree: <code>~/portfolio</code></b></summary>
+
+```
+portfolio/
+├──  init.lua             <- bootstrap
+├──  about.lua            <- who i am
+├──  stack.toml           <- weapons of choice
+├──  projects/
+│   ├──  alpha.md
+│   ├──  beta.md
+│   └──  gamma.md
+├──  anime/
+│   └──  vibes.sh
+└──  stats/
+    └──  contributions.lua
+```
+
+</details>
+
+---
+
+## `about.lua` — buffer [1]
 
 ```lua
--- ╔══════════════════════════════════════════════════╗
--- ║           WHO IS THIS HACKER?  :help me          ║
--- ╚══════════════════════════════════════════════════╝
+-- ┌─────────────────────────────────────────────────────┐
+-- │  :e ~/portfolio/about.lua                           │
+-- └─────────────────────────────────────────────────────┘
 
-local me = {
-  name        = "YOUR NAME HERE",
-  alias       = { "dev", "keyboard_spirit", "404_human_not_found" },
-  location    = "🌍  Earth  (ping: 0ms)",
-  role        = "Full Stack Developer  |  Open Source Addict  |  Vim Cultist",
-  pronouns    = "he/him",
-  status      = "⚡ Currently writing code that will confuse future me",
-  sleep       = false,  -- perpetually
-  coffee      = math.huge,
+---@class Developer
+local M = {}
 
-  currently = {
-    learning  = { "Rust", "WebAssembly", "Distributed Systems" },
-    building  = "Something that will break prod at 3am",
-    obsessing = "Making my dotfiles prettier than my social life",
+M.profile = {
+  name      = "[YOUR NAME]",
+  alias     = { "dev_mode", "0x[handle]", "keyboard_ghost" },
+  role      = "Full Stack Engineer  ·  OSS Contributor  ·  Vim Absolutist",
+  location  = "🌍 [Your City], [Country]",
+  timezone  = "UTC+[X] — coding at all hours",
+  status    = "⚡ Currently breaking prod at [company/project]",
+  coffee    = math.huge,
+  sleep     = nil, -- not found
+
+  now = {
+    learning  = { "Rust", "Zig", "WebAssembly", "Category Theory" },
+    building  = "[current project name — be specific]",
+    listening = "lo-fi + anime OSTs in terminal",
+    reading   = "[a book] by [author]",
   },
 
-  contact = {
-    email     = "you@domain.dev",
-    twitter   = "@yourhandle",
-    discord   = "yourname#0000",
-    portfolio = "https://yoursite.dev",
+  links = {
+    site      = "https://[yoursite].dev",
+    email     = "[you]@[domain].dev",
+    twitter   = "@[handle]",
+    linkedin  = "linkedin.com/in/[you]",
+    discord   = "[user]#0000",
   },
 
-  fun_fact = "I use Neovim btw 🏛️"
+  fun_fact  = [[
+    I have remapped <Esc> to jk so many times
+    that I now type 'jk' in physical notebooks.
+  ]],
 }
 
-return me
+return M
 ```
 
 <div align="center">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="anime thinking"/>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="180" alt="anime thinking at computer"/>
 </div>
 
 ---
 
-## `~/stack/weapons.toml` &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/──%20BUFFER%202%20──-bb9af7?style=flat"/>
+## `stack.toml` — buffer [2]
 
 ```toml
-# :set syntax=weapons
-# These are loaded every session. No uninstall option.
+# ┌───────────────────────────────────────────────────────────┐
+# │  :Lazy  -> all plugins healthy   |  :Mason  -> armed      │
+# └───────────────────────────────────────────────────────────┘
+
+[meta]
+editor   = "neovim"
+config   = "lazyvim"
+dotfiles = "github.com/[you]/dotfiles"
+shell    = "zsh + starship + tmux"
+os       = "arch/ubuntu/macos — rotating"
 ```
 
-### `[languages]` — *the scrolls I can read*
+### `[languages]`
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=f9e2af)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=89b4fa)
+![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=cba6f7)
+![Rust](https://img.shields.io/badge/Rust-1e1e2e?style=for-the-badge&logo=rust&logoColor=fab387)
+![Go](https://img.shields.io/badge/Go-1e1e2e?style=for-the-badge&logo=go&logoColor=89dceb)
+![Lua](https://img.shields.io/badge/Lua-1e1e2e?style=for-the-badge&logo=lua&logoColor=74c7ec)
+![C++](https://img.shields.io/badge/C++-1e1e2e?style=for-the-badge&logo=cplusplus&logoColor=f38ba8)
+![Shell](https://img.shields.io/badge/Shell-1e1e2e?style=for-the-badge&logo=gnubash&logoColor=a6e3a1)
 
 </div>
 
-### `[frontend]` — *the canvas sorcery*
+### `[frontend]`
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-181825?style=for-the-badge&logo=react&logoColor=89dceb)
+![Next.js](https://img.shields.io/badge/Next.js-181825?style=for-the-badge&logo=nextdotjs&logoColor=cdd6f4)
+![Vue](https://img.shields.io/badge/Vue.js-181825?style=for-the-badge&logo=vuedotjs&logoColor=a6e3a1)
+![Svelte](https://img.shields.io/badge/Svelte-181825?style=for-the-badge&logo=svelte&logoColor=fab387)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-181825?style=for-the-badge&logo=tailwindcss&logoColor=89b4fa)
+![Three.js](https://img.shields.io/badge/Three.js-181825?style=for-the-badge&logo=threedotjs&logoColor=cba6f7)
+![WebGL](https://img.shields.io/badge/WebGL-181825?style=for-the-badge&logo=webgl&logoColor=f9e2af)
 
 </div>
 
-### `[backend]` — *where the dark magic lives*
+### `[backend]`
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-11111b?style=for-the-badge&logo=nodedotjs&logoColor=a6e3a1)
+![FastAPI](https://img.shields.io/badge/FastAPI-11111b?style=for-the-badge&logo=fastapi&logoColor=94e2d5)
+![GraphQL](https://img.shields.io/badge/GraphQL-11111b?style=for-the-badge&logo=graphql&logoColor=cba6f7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-11111b?style=for-the-badge&logo=postgresql&logoColor=89b4fa)
+![Redis](https://img.shields.io/badge/Redis-11111b?style=for-the-badge&logo=redis&logoColor=f38ba8)
+![Docker](https://img.shields.io/badge/Docker-11111b?style=for-the-badge&logo=docker&logoColor=89dceb)
+![Kubernetes](https://img.shields.io/badge/K8s-11111b?style=for-the-badge&logo=kubernetes&logoColor=89b4fa)
 
 </div>
 
-### `[tools]` — *the sacred artifacts*
+### `[sacred_tools]`
 
 <div align="center">
 
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-1e1e2e?style=for-the-badge&logo=neovim&logoColor=a6e3a1)
+![LazyVim](https://img.shields.io/badge/LazyVim-1e1e2e?style=for-the-badge&logo=lua&logoColor=cba6f7)
+![Git](https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=fab387)
+![Linux](https://img.shields.io/badge/Linux-1e1e2e?style=for-the-badge&logo=linux&logoColor=f9e2af)
+![Tmux](https://img.shields.io/badge/Tmux-1e1e2e?style=for-the-badge&logo=tmux&logoColor=a6e3a1)
+![AWS](https://img.shields.io/badge/AWS-1e1e2e?style=for-the-badge&logo=amazonaws&logoColor=f9e2af)
+![Figma](https://img.shields.io/badge/Figma-1e1e2e?style=for-the-badge&logo=figma&logoColor=f38ba8)
 
 </div>
 
 ---
 
-## `~/projects/showcase.md` &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/──%20BUFFER%203%20──-9ece6a?style=flat"/>
+## `projects/showcase.lua` — buffer [3]
 
-```
-:Telescope find_projects
+```lua
+-- :Telescope find_files -> projects/
+-- Results ──────────────────────────────────────────────
+--  alpha.md            * flagship
+--  beta.md             ~ wip
+--  gamma.md            + stable
 ```
 
 <br/>
 
-<!-- Project Cards -->
+### `[Project Alpha]` &emsp; ![](https://img.shields.io/badge/FLAGSHIP-a6e3a1?style=flat-square&labelColor=1e1e2e) ![](https://img.shields.io/badge/LIVE-1e1e2e?style=flat-square&logo=vercel&logoColor=a6e3a1)
 
-### ⚡ `project_alpha` &nbsp; ![Status](https://img.shields.io/badge/status-LIVE-9ece6a?style=flat-square) ![Stars](https://img.shields.io/github/stars/yourusername/project-alpha?style=flat-square&color=f7c948)
-
-> *"The one that kept me awake for 3 nights straight"*
+> *"The one that taught me what 'on-call' really means."*
 
 ```diff
-+ Full-stack SaaS platform built with Next.js + Rust backend
-+ Real-time collaboration powered by WebSockets + Redis PubSub  
-+ 10,000+ users  |  99.9% uptime  |  deployed on AWS ECS
-- Still haunted by the auth bug on line 347
++ Full-stack SaaS · Next.js 14  x  Rust (Axum) backend
++ Real-time collab via WebSockets + Redis PubSub
++ 12k+ users · 99.97% uptime · multi-region AWS ECS
+- auth.ts line 347 still haunts my dreams
 ```
 
-[![Repo](https://img.shields.io/badge/📂_View_Repo-1a1b26?style=for-the-badge&logo=github)](https://github.com/yourusername/project-alpha)
-[![Live](https://img.shields.io/badge/🚀_Live_Demo-7aa2f7?style=for-the-badge)](https://project-alpha.dev)
+[![Repo](https://img.shields.io/badge/Repo-1e1e2e?style=for-the-badge&logo=github&logoColor=cba6f7)](https://github.com/[you]/[project-alpha])
+[![Live](https://img.shields.io/badge/Live_Demo-1e1e2e?style=for-the-badge&logoColor=89b4fa)](https://[project].dev)
 
 ---
 
-### 🔥 `project_beta` &nbsp; ![Status](https://img.shields.io/badge/status-WIP-e0af68?style=flat-square)
+### `[Project Beta]` &emsp; ![](https://img.shields.io/badge/WIP-f9e2af?style=flat-square&labelColor=1e1e2e)
 
-> *"AI + WebAssembly = cursed but beautiful"*
+> *"WebAssembly + ML inference in the browser. Cursed. Beautiful."*
 
 ```diff
-+ Browser-native ML inference using WASM + ONNX
-+ Zero backend, zero tracking, zero compromise
-+ Runs GPT-2 at 60fps in the browser (yes, really)
-! Warning: may cause existential dread
++ Zero-backend ML: ONNX runtime compiled to WASM
++ Runs inference at 60fps, zero telemetry, zero server
++ Progressive enhancement — degrades gracefully on weak CPUs
+! Currently rewriting the scheduler for the 4th time
 ```
 
-[![Repo](https://img.shields.io/badge/📂_View_Repo-1a1b26?style=for-the-badge&logo=github)](https://github.com/yourusername/project-beta)
+[![Repo](https://img.shields.io/badge/Repo-1e1e2e?style=for-the-badge&logo=github&logoColor=cba6f7)](https://github.com/[you]/[project-beta])
 
 ---
 
-### 🌌 `project_gamma` &nbsp; ![Status](https://img.shields.io/badge/status-STABLE-bb9af7?style=flat-square)
+### `[Project Gamma]` &emsp; ![](https://img.shields.io/badge/STABLE-89b4fa?style=flat-square&labelColor=1e1e2e)
 
-> *"My love letter to terminal interfaces"*
+> *"My love letter to TUI interfaces."*
 
 ```diff
-+ TUI dashboard for monitoring k8s clusters in real-time
-+ Built with Go + Bubble Tea + Lip Gloss
-+ Handles 500+ pod events/sec without breaking a sweat
-+ Vim keybindings because obviously
++ k8s cluster dashboard in the terminal
++ Go + Bubble Tea + Lip Gloss · handles 500+ events/sec
++ Ships as a single statically-linked binary
++ Vim keybindings throughout (obviously)
 ```
 
-[![Repo](https://img.shields.io/badge/📂_View_Repo-1a1b26?style=for-the-badge&logo=github)](https://github.com/yourusername/project-gamma)
+[![Repo](https://img.shields.io/badge/Repo-1e1e2e?style=for-the-badge&logo=github&logoColor=cba6f7)](https://github.com/[you]/[project-gamma])
 
 ---
 
-## `~/anime/vibes.txt` &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/──%20BUFFER%204%20──-f7768e?style=flat"/>
+## `anime/vibes.sh` — buffer [4]
 
 <div align="center">
-
-> *"I don't have a bug. I have a feature that hasn't found its purpose yet."*
-> — Me, 3am, crying into the terminal
-
-<br/>
-
-<img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="220" alt="anime hacker"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" alt="anime keyboard"/>
-
-<br/><br/>
-
-```
-Current BGM while coding:
-╔═════════════════════════════════╗
-║  ♪  Lo-fi Anime Study Beats    ║
-║  ───────────────────  [█████░]  ║
-║  Vol: MAX  │  Repeat: ∞         ║
-╚═════════════════════════════════╝
-```
-
-### My Development Arc:
-
-| Phase | Anime Equivalent | Reality |
-|-------|-----------------|---------|
-| Learning basics | Naruto Academy Arc | Googling "how to center a div" |
-| First real project | Chunin Exams | It works on my machine™ |
-| Debugging prod | Sasuke revenge arc | `git blame` and internal screaming |
-| Open source PR | Hokage ascension | 3 comments, 47 requested changes |
-| Senior dev mode | Madara Uchiha | *"I wrote this system in my sleep"* |
-
-<br/>
-
-<img src="https://media.giphy.com/media/f9RzoxHizH72k15FKS/giphy.gif" width="350" alt="anime coding power"/>
-
-</div>
-
----
-
-## `~/stats/contributions.sh` &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/──%20BUFFER%205%20──-e0af68?style=flat"/>
 
 ```sh
-#!/bin/bash
-# :!./contributions.sh
-# analyzing commit history... please hold 🍵
+#!/usr/bin/env bash
+# Current BGM ──────────────────────────────────────────
+# ♪  "unravel" — TK from 凛として時雨  (Tokyo Ghoul OP)
+# ♪  "Decisive Battle" — Evangelion OST
+# ♪  "Hikaru nara" — Your Lie in April
+# ──────────────────────────────────────────────────────
+# Volume: MAX   |   Repeat: infinity   |   Focus: LOCKED
 ```
-
-<div align="center">
-
-### 📊 GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&border_radius=10" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=f7768e&currStreakLabel=bb9af7&border_radius=10" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&border_radius=10" width="49%" />
+<img src="https://media.giphy.com/media/f9RzoxHizH72k15FKS/giphy.gif" height="220" alt="anime power up"/>
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/citxUMHyVCbHi/giphy.gif" height="220" alt="anime laptop coding"/>
 
 <br/><br/>
 
-### 🗺️ Contribution Galaxy
+### Developer Power Levels — Calibrated Against Anime Arcs
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=f7768e&area=true&area_color=7aa2f760" width="100%"/>
+| Power Level | Anime Equivalent | Dev Translation |
+|:-----------:|:----------------|:----------------|
+| `1` | Naruto graduation | Centering a div with Google open |
+| `25` | Sasuke retrieval arc | First app deployed to prod |
+| `50` | Pain arc | Debugging a race condition at 2am |
+| `75` | 4th Great Ninja War | Maintaining a monorepo with 12 teams |
+| `99` | Sage of Six Paths | Wrote the framework everyone else uses |
+| `∞` | Saitama | One punch — one `git push --force` |
 
-<br/><br/>
+<br/>
 
-### 🏆 Trophy Cabinet
+<img src="https://media.giphy.com/media/KM4Lj1HDoMIHb9AVAI/giphy.gif" height="200" alt="anime keyboard warrior"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+> *"Vim is not a text editor — it is a way of life."*
+> *"LazyVim is not configuration — it is enlightenment."*
 
 </div>
 
 ---
 
-## The Terminal Philosophy 🖤
+## `stats/contributions.lua` — buffer [5]
+
+```lua
+-- :checkhealth contributions
+-- + GitHub API reachable
+-- + Streak active  (do NOT break the chain)
+-- + Top Languages computed
+-- + Activity graph rendered
+```
 
 <div align="center">
 
-```bash
-$ cat /dev/thoughts
+### GitHub Metrics
 
-> "A good developer writes code that humans can understand.
->  A great developer writes code that even future-me can understand.
->  A Neovim developer writes macros that do both... eventually."
-
-$ echo $EDITOR
-nvim
-
-$ echo $SHELL  
-/bin/zsh  # obviously
-
-$ uptime
- up 847 days,  still going,  load average: ∞, ☕, ☕
-```
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   Thanks for reading this far. You passed the vimtutor. ║
-║                                                          ║
-║   If you want to collab, open an issue. Or send smoke   ║
-║   signals. Both work equally well.                       ║
-║                                                          ║
-║         :wq!   (I mean it this time)                     ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<!-- Social Links -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1a1b26?style=for-the-badge&labelColor=7aa2f7&color=1a1b26)](https://yoursite.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1a1b26?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e)](mailto:you@domain.dev)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=7aa2f7&style=flat-square&label=profile+views" />
+<img src="https://github-readme-stats.vercel.app/api?username=[yourusername]&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&ring_color=cba6f7&border_radius=10" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=[yourusername]&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=fab387&currStreakLabel=a6e3a1&border_radius=10" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[yourusername]&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_radius=10" width="49%"/>
 
 <br/><br/>
 
-<!-- Snake animation -->
+### Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=[yourusername]&theme=tokyo-night&hide_border=true&bg_color=1e1e2e&color=cba6f7&line=89b4fa&point=fab387&area=true&area_color=cba6f760" width="100%"/>
+
+<br/>
+
+### Trophy Shelf
+
+<img src="https://github-profile-trophy.vercel.app/?username=[yourusername]&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+
+<br/>
+
+### Contribution Snake
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/[yourusername]/[yourusername]/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[yourusername]/[yourusername]/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/[yourusername]/[yourusername]/output/github-contribution-grid-snake.svg"/>
 </picture>
 
+</div>
+
+---
+
+<div align="center">
+
+```lua
+-- ╔══════════════════════════════════════════════════════════╗
+-- ║                                                          ║
+-- ║  Thanks for reaching buffer [5] — you earned a cookie.  ║
+-- ║                                                          ║
+-- ║  If you want to collab, open a PR, an issue, or just     ║
+-- ║  send a message. All methods accepted equally.           ║
+-- ║                                                          ║
+-- ║  :wqa   <- I mean it this time. Goodbye.                 ║
+-- ╚══════════════════════════════════════════════════════════╝
+```
+
 <br/>
 
-```
--- EOF  [ line 1337 ]  [ col 42 ]  [ utf-8 ]  [ unix ]  ──  NORMAL ──
-```
+[![Portfolio](https://img.shields.io/badge/Portfolio-1e1e2e?style=for-the-badge&logo=firefox&logoColor=cba6f7)](https://[yoursite].dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1e1e2e?style=for-the-badge&logo=x&logoColor=cdd6f4)](https://twitter.com/[handle])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa)](https://linkedin.com/in/[you])
+[![Email](https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8)](mailto:[you]@[domain].dev)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=[yourusername]&style=flat-square&color=cba6f7&label=profile+views"/>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,50:313244,100:1e1e2e&height=100&section=footer&animation=fadeIn"/>
+
+<!-- EOF  [ buf 5/5 ]  [ ln 337 / col 42 ]  [ lua ]  [ unix ]  -- NORMAL -- -->
