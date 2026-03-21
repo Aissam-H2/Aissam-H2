@@ -193,6 +193,7 @@ Docker      ██████████████░░░░░░   70%  
 
 <!-- CONTRIBUTION GRAPH -->
 ## `" contribution graph`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:aa44ff,100:ff0080&height=3" width="100%" />
 
 <div align="center">
 
