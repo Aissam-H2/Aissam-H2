@@ -179,7 +179,7 @@ Docker      ██████████████░░░░░░   70%  
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aissam-H2&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b6b&icon_color=ffdd00&text_color=a9b1d6&ring_color=ff6b6b" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aissam-H2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=ffdd00&text_color=ffffff&ring_color=58a6ff" width="48%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Aissam-H2&theme=radical&hide_border=true&background=0D1117&stroke=ff6b6b&ring=ff6b6b&fire=ffdd00&currStreakNum=a9b1d6&sideNums=a9b1d6&currStreakLabel=ff6b6b&sideLabels=ff6b6b&dates=565f89" width="48%" />
 
