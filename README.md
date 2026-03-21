@@ -224,8 +224,8 @@ call Contact()
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aissamhassan70@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFDD00?style=for-the-badge&logo=linkedIn&logoColor=black)](https://www.linkedin.com/in/aissam-hassan-b70982337)
+[![Email](https://img.shields.io/badge/Email-FF0080?style=for-the-badge&logo=email&logoColor=white)](mailto:aissamhassan70@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFDD00?style=for-the-badge&logo=LinkedIn&logoColor=black)](https://www.linkedin.com/in/aissam-hassan-b70982337)
 [![GitHub](https://img.shields.io/badge/GitHub-FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Aissam-H2)
 
 </div>
