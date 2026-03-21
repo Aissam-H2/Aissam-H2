@@ -179,7 +179,7 @@ Docker      ██████████████░░░░░░   70%  
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=algolia)
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Aissam-H2&theme=radical&hide_border=true&background=0D1117&stroke=ff6b6b&ring=ff6b6b&fire=ffdd00&currStreakNum=a9b1d6&sideNums=a9b1d6&currStreakLabel=ff6b6b&sideLabels=ff6b6b&dates=565f89" width="48%" />
 
