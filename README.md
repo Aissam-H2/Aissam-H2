@@ -156,17 +156,17 @@ Docker      ██████████████░░░░░░   70%  
 
 ```
   1   h   "smart-farm"       🔴 Python  / 🟢 html /  🟠 javascript
-  2   h   "attraction-park-management"        🔴 C++/
+  2   h   "attraction-park-management"        🔴 C++
   3   h   "Contact-book-application"          🔴 Python
   4   h   "gaming-website"                   🟠 html / 🟠 css / 🟠 javascript
 ```
 
 | # | 🎨 Project | ⚙️ Tech | 📝 Description |
 |---|-----------|---------|----------------|
-| 🟠 1 | **Smart-farm** | `Python / html / javascript` |a system where you can see the stats of each zone |
-| 🔴 2 | **attraction-park-management** | `C++` | you can have the full control to the system of a park|
-| 🔴 3 | **Contact-book-application** | `python` |you can manage a list of contacts in different ways |
-| 🟠 4 | **gaming-website** | `html / css (a lot of css code) / javascript` | a open shop where you can buy anything of gaming products |
+| 🟠1 | **Smart-farm** | `Python / html / javascript` |a system where you can see the stats of each zone |
+| 🔴2 | **attraction-park-management** | `C++` | you can have the full control to the system of a park|
+| 🔴3 | **Contact-book-application** | `python` |you can manage a list of contacts in different ways |
+| 🟠4 | **gaming-website** | `html / css (a lot of css code) / javascript` | a open shop where you can buy anything of gaming products |
 
 ---
 
