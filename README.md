@@ -158,7 +158,7 @@ Docker      ██████████████░░░░░░   70%  
   1   h   "smart-farm"       🔴 Python  / 🟢 html /  🟠 javascript
   2   h   "attraction-park-management"        🔴 C++
   3   h   "Contact-book-application"          🔴 Python
-  4   h   "gaming-website"                   🟠 html / 🟠 css / 🟠 javascript
+  4   h   "gaming-website"                    🟠 html / 🟠 css / 🟠 javascript
 ```
 
 | # | 🎨 Project | ⚙️ Tech | 📝 Description |
