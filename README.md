@@ -186,8 +186,7 @@ Docker      ██████████████░░░░░░   70%  
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aissam-H2&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=a9b1d6&langs_count=8" width="42%" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aissam-H2&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&langs_count=8" width="42%" />
 </div>
 
 ---
