@@ -203,7 +203,7 @@ Docker      ██████████████░░░░░░   70%  
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:aa44ff,100:ff0080&height=3" width="100%" />
 
- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> `:wq  " save and connect`
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"> `:wq  " save and connect`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:aa44ff,100:ff0080&height=3" width="100%" />
 
