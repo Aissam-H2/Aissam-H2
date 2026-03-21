@@ -92,7 +92,9 @@ echo "Hello, World! I write code that actually works. 🚀"
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 </div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffdd00,100:00ff88&height=3" width="100%" />
+
 ### 🟠 Tools & Platforms
 
 <div align="center">
