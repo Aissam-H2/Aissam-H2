@@ -210,10 +210,9 @@ Docker      ██████████████░░░░░░   70%  
 " ── Contact Info ──────────────────────────────────────────────────
 
 function! Contact()
-  let email    = "your.email@example.com"       " 🔴 mail
-  let linkedin = "linkedin.com/in/aissam"        " 🟠 work
-  let github   = "github.com/aissam"             " 🟡 code
-  let twitter  = "@aissam_dev"                   " 🟢 thoughts
+  let email    = aissamhassan70@gmail.com"       " 🔴 mail
+  let linkedin = "linkedin.com/in/Aissam Hassan" " 🟠 work
+  let github   = "github.com/Aissam-H2"          " 🟡 code
 
   echo "Ping me anytime. I don't bite. (bugs do though) 🐛"
 endfunction
@@ -223,10 +222,9 @@ call Contact()
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6600?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aissam)
-[![GitHub](https://img.shields.io/badge/GitHub-FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/aissam)
-[![Twitter](https://img.shields.io/badge/Twitter-00FF88?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/aissam_dev)
+[![Email](https://img.shields.io/badge/Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aissamhassan70@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6600?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Aissam )
+[![GitHub](https://img.shields.io/badge/GitHub-FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Aissam-H2)
 
 </div>
 
