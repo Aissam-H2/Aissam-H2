@@ -202,7 +202,7 @@ Docker      ██████████████░░░░░░   70%  
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:aa44ff,100:ff0080&height=3" width="100%" />
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  `:wq  " save and connect`
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlmcWs1dWJxeWhrbnpobzkxcHNjMXQ3Z3AxcnJhcjNoY211M2FiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ooB1Ev7aWksYbg0Va6/giphy.gif" width="30">  `:wq  " save and connect`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:aa44ff,100:ff0080&height=3" width="100%" />
 
