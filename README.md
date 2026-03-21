@@ -155,19 +155,17 @@ Docker      ██████████████░░░░░░   70%  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00bfff&height=3" width="100%" />
 
 ```
-  1  %a   "shell-interpreter"    🔴  C
-  2   h   "http-server"          🟠  C / Go
-  3   h   "compiler-project"     🟡  C++
-  4   h   "cli-toolkit"          🟢  Python / Go
+  1   h   "smart-farm"       🔴 Python  / 🟢 html /  🟠 javascript
+  4   h   "cli-toolkit"          🟡  C++/ 🟢  Python / Go
   5   h   "api-service"          🔵  TypeScript / Vercel
 ```
 
 | # | 🎨 Project | ⚙️ Tech | 📝 Description |
 |---|-----------|---------|----------------|
-| 🔴 1 | **Shell Interpreter** | `C` | Custom UNIX shell with pipes, redirections & builtins |
-| 🟠 2 | **HTTP Server** | `C / Go` | Lightweight HTTP/1.1 server built from scratch |
+| 🔴 1 | **Smart-farm** | `Python / html / javascript` |a system where you can see the stats of each zone |
+| 🟠 2 | **** | `C / Go` | Lightweight HTTP/1.1 server built from scratch |
 | 🟡 3 | **Compiler Project** | `C++` | Mini-language compiler with lexer + parser |
-| 🟢 4 | **CLI Toolkit** | `Python / Go` | Collection of productivity command-line tools |
+|  4 | **CLI Toolkit** | `Python / Go` | Collection of productivity command-line tools |
 | 🔵 5 | **API Service** | `TypeScript / Vercel` | Serverless REST API with edge deployment |
 
 ---
