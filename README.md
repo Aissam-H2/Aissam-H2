@@ -199,8 +199,6 @@ Docker      ██████████████░░░░░░   70%  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aissam-H2&theme=redical&hide_border=true&bg_color=0D1117&color=ff6b6b&line=ffdd00&point=00ff88" width="48%" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:aa44ff,100:ff0080&height=3" width="100%" />
-
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlmcWs1dWJxeWhrbnpobzkxcHNjMXQ3Z3AxcnJhcjNoY211M2FiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ooB1Ev7aWksYbg0Va6/giphy.gif" width="30">  `:wq  " save and connect`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:aa44ff,100:ff0080&height=3" width="100%" />
