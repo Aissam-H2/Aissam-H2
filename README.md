@@ -225,7 +225,6 @@ call Contact()
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aissamhassan70@gmail.com)
-[![LinkedIn](http://www.freepnglogos.com/uploads/official-linkedin-logo----17.png)](https://www.linkedin.com/in/aissam-hassan-b70982337)
 [![GitHub](https://img.shields.io/badge/GitHub-FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Aissam-H2)
 
 </div>
