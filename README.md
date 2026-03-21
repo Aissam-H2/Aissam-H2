@@ -206,7 +206,7 @@ Docker      ██████████████░░░░░░   70%  
 <!-- TROPHY -->
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aissam-H2&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:aa44ff,100:ff0080&height=3" style="width:100%; display:block;" />
 
 </div>
 
