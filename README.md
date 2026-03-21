@@ -156,17 +156,17 @@ Docker      ██████████████░░░░░░   70%  
 
 ```
   1   h   "smart-farm"       🔴 Python  / 🟢 html /  🟠 javascript
-  4   h   "cli-toolkit"          🟡  C++/ 🟢  Python / Go
-  5   h   "api-service"          🔵  TypeScript / Vercel
+  2   h   "attraction-park-management"        🔴 C++/
+  3   h   "Contact-book-application"          🔴 Python
+  4   h   "gaming-website"                   🟠 html / 🟠 css / 🟠 javascript
 ```
 
 | # | 🎨 Project | ⚙️ Tech | 📝 Description |
 |---|-----------|---------|----------------|
-| 🔴 1 | **Smart-farm** | `Python / html / javascript` |a system where you can see the stats of each zone |
-| 🟠 2 | **** | `C / Go` | Lightweight HTTP/1.1 server built from scratch |
-| 🟡 3 | **Compiler Project** | `C++` | Mini-language compiler with lexer + parser |
-|  4 | **CLI Toolkit** | `Python / Go` | Collection of productivity command-line tools |
-| 🔵 5 | **API Service** | `TypeScript / Vercel` | Serverless REST API with edge deployment |
+| 🟠 1 | **Smart-farm** | `Python / html / javascript` |a system where you can see the stats of each zone |
+| 🔴 2 | **attraction-park-management** | `C++` | you can have the full control to the system of a park|
+| 🔴 3 | **Contact-book-application** | `python` |you can manage a list of contacts in different ways |
+| 🟠 4 | **gaming-website** | `html / css (a lot of css code) / javascript` | a open shop where you can buy anything of gaming products |
 
 ---
 
