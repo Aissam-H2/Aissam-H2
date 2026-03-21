@@ -212,17 +212,6 @@ Docker      ██████████████░░░░░░   70%  
 
 ---
 
-<!-- CS GIF ROW 3 -->
-<div align="center">
-
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200" alt="devops" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/IdmfEtnMWPzOg/giphy.gif" width="160" alt="hacker cat" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="server" />
-
-</div>
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:aa44ff,100:ff0080&height=3" width="100%" />
