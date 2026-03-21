@@ -147,7 +147,6 @@ Docker      ██████████████░░░░░░   70%  
 </div>
 
 ---
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00bfff&height=3" width="100%" />
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> `:ls  " list buffers (projects)`
@@ -201,7 +200,7 @@ Docker      ██████████████░░░░░░   70%  
 
 </div>
 
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:aa44ff,100:ff0080&height=3" width="100%" />
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="42"> `:wq  " save and connect`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:aa44ff,100:ff0080&height=3" width="100%" />
