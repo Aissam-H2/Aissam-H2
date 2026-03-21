@@ -149,7 +149,7 @@ Docker      ██████████████░░░░░░   70%  
 ---
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00bfff&height=3" width="100%" />
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> `:ls  " list buffers (projects)`
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> `:ls  " list buffers (projects)`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00bfff&height=3" width="100%" />
 
