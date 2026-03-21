@@ -223,7 +223,7 @@ call Contact()
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aissamhassan70@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6600?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Aissam )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6600?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aissam-hassan-b70982337)
 [![GitHub](https://img.shields.io/badge/GitHub-FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Aissam-H2)
 
 </div>
@@ -246,7 +246,7 @@ call Contact()
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=aissam&color=ff6b6b&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Aissam-H2&color=ff6b6b&style=for-the-badge&label=Profile+Views)
 
 </div>
 
