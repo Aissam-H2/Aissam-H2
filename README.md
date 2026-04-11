@@ -145,10 +145,10 @@ Docker      ██████████████░░░░░░   70%  
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJuaWJpYzVkNWZ2bGNzbHRqMTRweXExdTIzN3Z3Y2M0dzZ0Y2xlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7OW9uqmToYAPNosYfo/giphy.gif" width="180" alt="github" />
 &nbsp;&nbsp;&nbsp;
 
-
 </div>
 
 ---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00bfff&height=3" width="100%" />
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> `:ls  " list buffers (projects)`
@@ -164,9 +164,9 @@ Docker      ██████████████░░░░░░   70%  
 
 | # | 🎨 Project | ⚙️ Tech | 📝 Description |
 |---|-----------|---------|----------------|
-| 🟠1 | **Smart-farm** | `Python / html / javascript` |a system where you can see the stats of each zone |
-| 🔴2 | **attraction-park-management** | `C++` | you can have the full control to the system of a park|
-| 🔴3 | **Contact-book-application** | `python` |you can manage a list of contacts in different ways |
+| 🟠1 | **Smart-farm** | `Python / html / javascript` | a system where you can see the stats of each zone |
+| 🔴2 | **attraction-park-management** | `C++` | you can have the full control to the system of a park |
+| 🔴3 | **Contact-book-application** | `python` | you can manage a list of contacts in different ways |
 | 🟠4 | **gaming-website** | `html / css (a lot of css code) / javascript` | a open shop where you can buy anything of gaming products |
 
 ---
@@ -179,28 +179,33 @@ Docker      ██████████████░░░░░░   70%  
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aissam-H2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=ffdd00&text_color=ffffff&ring_color=58a6ff&count_private=true" width="48%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=Aissam-H2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=ffdd00&text_color=ffffff&ring_color=58a6ff&count_private=true&include_all_commits=true" width="48%" />
 <img src="https://github-readme-streak-stats.demolab.com?user=Aissam-H2&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ffdd00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=ffffff" width="48%" />
+
 </div>
 
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aissam-H2&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&langs_count=8&count_private=true" width="42%" />
+
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aissam-H2&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=ffffff&line=58a6ff&point=ffdd00" width="100%" />
-</div>
 ---
 
 <!-- CONTRIBUTION GRAPH -->
+
 ## `" contribution graph`
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00bfff,100:aa44ff&height=3" width="100%" />
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aissam-H2&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=ffffff&line=58a6ff&point=ffdd00" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aissam-H2&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=ffffff&line=58a6ff&point=ffdd00" width="100%" />
+
 </div>
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00bfff,100:aa44ff&height=3" width="100%" />
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlmcWs1dWJxeWhrbnpobzkxcHNjMXQ3Z3AxcnJhcjNoY211M2FiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ooB1Ev7aWksYbg0Va6/giphy.gif" width="30">  `:wq  " save and connect`
@@ -211,7 +216,7 @@ Docker      ██████████████░░░░░░   70%  
 " ── Contact Info ──────────────────────────────────────────────────
 
 function! Contact()
-  let email    = aissamhassan70@gmail.com"       " 🔴 mail
+  let email    = "aissamhassan70@gmail.com"      " 🔴 mail
   let linkedin = "linkedin.com/in/Aissam Hassan" " 🟠 work
   let github   = "github.com/Aissam-H2"          " 🟡 code
 
