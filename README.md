@@ -179,16 +179,18 @@ Docker      ██████████████░░░░░░   70%  
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aissam-H2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=ffdd00&text_color=ffffff&ring_color=58a6ff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aissam-H2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=ffdd00&text_color=ffffff&ring_color=58a6ff&count_private=true" width="48%" />
 
 <img src="https://github-readme-streak-stats.demolab.com?user=Aissam-H2&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ffdd00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=ffffff" width="48%" />
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aissam-H2&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&langs_count=8" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aissam-H2&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&langs_count=8&count_private=true" width="42%" />
 </div>
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aissam-H2&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=ffffff&line=58a6ff&point=ffdd00" width="100%" />
+</div>
 ---
 
 <!-- CONTRIBUTION GRAPH -->
